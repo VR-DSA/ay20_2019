@@ -14,34 +14,34 @@ Welcome to (what may be) your first course in "professional" astronomy! In this 
 ### Syllabus
 
 * _Part A - Astronomy (5 lectures)_
-1. Coordinates, celestial motion, and time. 
-2. The solar system: planets, moons and minor planets. 
-3. Telescopes I: optical telescopes and the electromagnetic spectrum. 
-4. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy.
-5. Measures of radiation. 
+..1. Coordinates, celestial motion, and time. 
+..2. The solar system: planets, moons and minor planets. 
+..3. Telescopes I: optical telescopes and the electromagnetic spectrum. 
+..4. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy.
+..5. Measures of radiation. 
 
 * _Part B - Garden-variety stars (9 lectures)_
-1. The Sun and its blackbody spectrum.
-2. The solar energy source: nuclear burning.
-3. How does energy escape the Sun? Radiation, opacity, and transfer. 
-4. Opacity mechanisms and convection. 
-5. Equations that determine stellar structure.
-6. Deriving the main sequence, and the H-R diagram.
-7. What are all the other stars? Solar and stellar spectra.
-8. The hydrogen atom and Maxwell-Boltzmann statistics.
-9. Stellar spectral classification.
+..1. The Sun and its blackbody spectrum.
+..2. The solar energy source: nuclear burning.
+..3. How does energy escape the Sun? Radiation, opacity, and transfer. 
+..4. Opacity mechanisms and convection. 
+..5. Equations that determine stellar structure.
+..6. Deriving the main sequence, and the H-R diagram.
+..7. What are all the other stars? Solar and stellar spectra.
+..8. The hydrogen atom and Maxwell-Boltzmann statistics.
+..9. Stellar spectral classification.
 
 * _Part C - Star clusters and the Galaxy (4 lectures)_
-1. Star clusters and stellar population synthesis.
-2. Dynamics: binaries and stellar interactions.
-3. The Milky Way: structure, dynamics, Oort constants.
-4. Missing mass in the Galaxy and galaxy clusters: dark matter .
+..1. Star clusters and stellar population synthesis.
+..2. Dynamics: binaries and stellar interactions.
+..3. The Milky Way: structure, dynamics, Oort constants.
+..4. Missing mass in the Galaxy and galaxy clusters: dark matter .
 
 * _Part D - From dust to dust (7 lectures)_
-1. Revealing the ISM: extinction and the spectral line gallery.
-2. Components of the ISM and their origins.
-3. Star formation. 
-4. Post-main sequence evolution and giant stars.
-5. Degenerate dwarf stars.
-6. Supernovae: classification, energy sources, and nucleosynthesis.
-7. The remnants of supernovae: ISM enrichment, cosmic rays, neutron stars, black holes. 
+..1. Revealing the ISM: extinction and the spectral line gallery.
+..2. Components of the ISM and their origins.
+..3. Star formation. 
+..4. Post-main sequence evolution and giant stars.
+..5. Degenerate dwarf stars.
+..6. Supernovae: classification, energy sources, and nucleosynthesis.
+..7. The remnants of supernovae: ISM enrichment, cosmic rays, neutron stars, black holes. 
