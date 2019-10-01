@@ -6,6 +6,7 @@ Welcome to (what may be) your first course in "professional" astronomy! In this 
 
 * Instructor: Prof. Vikram Ravi (Cahill 302, office hours by appointment)
 * TA: Yuping Huang (office hours by appointment)
+* Schedule: Mon/Wed/Fri 11 am, Cahill 219. 
 * 25 lectures, 2 guest lectures, 1 exam review. 
 * Grading: 6 problem sets (30%), midterm (20%), project (20%), final (30%). 
 * Late submissions: -50% per day for problem sets. No late exams or projects will be accepted. Exceptions only in extraordinary  circumstances with proof. 
@@ -16,9 +17,9 @@ Welcome to (what may be) your first course in "professional" astronomy! In this 
 * _Part A - Astronomy (5 lectures)_
 ..1. Coordinates, celestial motion, and time. 
 ..2. The solar system: planets, moons and minor planets. 
-..3. Telescopes I: optical telescopes and the electromagnetic spectrum. 
-..4. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy.
-..5. Measures of radiation. 
+..3. Measures of radiation. 
+..4. Telescopes I: optical telescopes and the electromagnetic spectrum. 
+..5. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy.
 
 * _Part B - Garden-variety stars (9 lectures)_
 ..1. The Sun and its blackbody spectrum.
