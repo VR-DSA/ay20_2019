@@ -20,9 +20,9 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 * _Part A - Astronomy (5 lectures)_
 1. Coordinates, celestial motion, and time. (C&O ch 1)
 2. The solar system: planets, moons and minor planets. (C&O ch 2.1-2.3) 
-3. Measures of radiation. 
-4. Telescopes I: optical telescopes and the electromagnetic spectrum. 
-5. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy.
+3. Measures of radiation and the electromagnetic spectrum. (C&O ch 3) 
+4. Telescopes I: optical telescopes. (C&O ch 6.1-6.2) 
+5. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy. (C&O ch 6.3-6.5)
 
 * _Part B - Garden-variety stars (9 lectures)_
 1. The Sun and its blackbody spectrum.
