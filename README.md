@@ -25,9 +25,9 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 5. Telescopes II: from radio to gamma-rays. Multi-messenger astronomy. (C&O ch 6.3-6.5)
 
 * _Part B - Garden-variety stars (9 lectures)_
-1. The Sun and its blackbody spectrum.
-2. The solar energy source: nuclear burning.
-3. How does energy escape the Sun? Radiation, opacity, and transfer. 
+1. The Sun and its blackbody spectrum. (C&O ch 3.4-3.5, 11.2-11.3)
+2. The solar energy source: nuclear burning. (C&O ch 10.3)
+3. How does energy escape the Sun? Radiation, opacity, and transfer. (C&O ch 9.1-9.4)
 4. Opacity mechanisms and convection. 
 5. Equations that determine stellar structure.
 6. Deriving the main sequence, and the H-R diagram.
