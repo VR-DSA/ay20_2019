@@ -28,8 +28,8 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 1. The Sun and its blackbody spectrum. (C&O ch 3.4-3.5, 11.2-11.3)
 2. The solar energy source: nuclear burning. (C&O ch 10.3)
 3. How does energy escape the Sun? Radiation, opacity, and transfer. (C&O ch 9.1-9.4)
-4. Opacity mechanisms and convection. 
-5. Equations that determine stellar structure.
+4. Opacity mechanisms and convection. (C&O ch 9.1-9.4)
+5. Equations that determine stellar structure. (C&O ch 10.1-10.5)
 6. Deriving the main sequence, and the H-R diagram.
 7. What are all the other stars? Solar and stellar spectra.
 8. The hydrogen atom and Maxwell-Boltzmann statistics.
