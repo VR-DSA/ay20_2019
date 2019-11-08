@@ -30,13 +30,13 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 3. How does energy escape the Sun? Radiation, opacity, and transfer. (C&O ch 9.1-9.4)
 4. Opacity mechanisms and convection. (C&O ch 9.1-9.4)
 5. Equations that determine stellar structure. (C&O ch 10.1-10.5)
-6. Deriving the main sequence, and the H-R diagram.
-7. What are all the other stars? Solar and stellar spectra.
-8. The hydrogen atom and Maxwell-Boltzmann statistics.
-9. Stellar spectral classification.
+6. Deriving the main sequence, and the H-R diagram. (C&O ch 8.2, 10.6)
+7. What are all the other stars? Solar and stellar spectra. (C&O ch 5, 8.1, 9.5)
+8. The hydrogen atom and Maxwell-Boltzmann statistics. (as above)
+9. Stellar spectral classification. (as above)
 
 * _Part C - Star clusters and the Galaxy (4 lectures)_
-1. Star clusters and stellar population synthesis.
+1. Star clusters and stellar population synthesis. (C&O ch 13.3, https://www.annualreviews.org/doi/10.1146/annurev-astro-082812-141017 - pdf available with Caltech credentials)
 2. Dynamics: binaries and stellar interactions.
 3. The Milky Way: structure, dynamics, Oort constants.
 4. Missing mass in the Galaxy and galaxy clusters: dark matter .
