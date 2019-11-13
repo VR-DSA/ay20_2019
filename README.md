@@ -38,8 +38,8 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 * _Part C - Star clusters and the Galaxy (4 lectures)_
 1. Star clusters and stellar population synthesis. (C&O ch 13.3, https://www.annualreviews.org/doi/10.1146/annurev-astro-082812-141017 - pdf available with Caltech credentials)
 2. Dynamics: binaries and stellar interactions (C&O ch 2.4, 7).
-3. The Milky Way: structure, dynamics, Oort constants (C&O ch 24.1-24.3).
-4. Missing mass in the Galaxy and galaxy clusters: dark matter .
+3. The Milky Way: structure, dynamics, Oort constants (C&O ch 24.1-24.3, https://arxiv.org/pdf/1904.05721.pdf).
+4. Missing mass in the Galaxy and galaxy clusters: dark matter.
 
 * _Part D - From dust to dust (7 lectures)_
 1. Revealing the ISM: extinction and the spectral line gallery.
