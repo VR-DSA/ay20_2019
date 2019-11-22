@@ -39,13 +39,13 @@ You will find lecture notes in the attached folder titled **LECTURES**. When pro
 1. Star clusters and stellar population synthesis. (C&O ch 13.3, https://www.annualreviews.org/doi/10.1146/annurev-astro-082812-141017 - pdf available with Caltech credentials)
 2. Dynamics: binaries and stellar interactions (C&O ch 2.4, 7).
 3. The Milky Way: structure, dynamics, Oort constants (C&O ch 24.1-24.3, https://arxiv.org/pdf/1904.05721.pdf).
-4. Missing mass in the Galaxy and galaxy clusters: dark matter.
+4. Missing mass in the Galaxy and galaxy clusters: dark matter (as above).
 
 * _Part D - From dust to dust (7 lectures)_
-1. Revealing the ISM: extinction and the spectral line gallery.
-2. Components of the ISM and their origins.
-3. Star formation. 
-4. Post-main sequence evolution and giant stars.
-5. Degenerate dwarf stars.
-6. Supernovae: classification, energy sources, and nucleosynthesis.
-7. The remnants of supernovae: ISM enrichment, cosmic rays, neutron stars, black holes. 
+1. Revealing the ISM: extinction and the spectral line gallery (C&O 12.1).
+2. Components of the ISM and their origins (https://www.annualreviews.org/doi/abs/10.1146/annurev.astro.43.072103.150615).
+3. Star formation (C&O 12.1, 12.3). 
+4. Post-main sequence evolution and giant stars (C&O 13.1, 13.2, 15.1).
+5. Degenerate dwarf stars (C&O ch 16.1-16.5, https://www.annualreviews.org/doi/full/10.1146/annurev.astro.38.1.485).
+6. Supernovae: classification, energy sources, and nucleosynthesis (C&O 15.2, 15.3, 18.5)
+7. The remnants of supernovae: ISM enrichment, cosmic rays, neutron stars, black holes (C&O 15.5, 16.6, 16.7, 17.3). 
